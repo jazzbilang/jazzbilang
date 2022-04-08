@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jazzbilang
 - 👀 I’m interested about technology
-- 🌱 I’m currently an Application Developer (RDBMS) at IBM
+- 🌱 I’m an Application Developer (RDBMS) at IBM
 - 💞️ I’m looking to collaborate on techs that will greatly affect our everyday lives
 - 📫 How to reach me - jfeb20@yahoo.com
 
